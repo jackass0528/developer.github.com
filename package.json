@@ -10,7 +10,7 @@
     "gulp-replace": "^0.6.1",
     "gulp-sass": "^3.1.0",
     "gulp-uglify": "^3.0.0",
-    "js-yaml": "^3.4.3"
+    "js-yaml": "^3.13.0"
   },
   "devDependencies": {
     "gulp-connect": "^5.2.0"
